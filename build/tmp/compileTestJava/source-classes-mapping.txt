@@ -1,0 +1,2 @@
+com/polytechmtp/keycloak/CovidAlertApplicationTests.java
+ com.polytechmtp.keycloak.CovidAlertApplicationTests
